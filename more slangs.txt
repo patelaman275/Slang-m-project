@@ -1,0 +1,124 @@
+"New Zealand": {
+    "Sweet as": "Great or excellent",
+    "Chur": "Thanks or okay",
+    "Bro": "Brother or friend",
+    "She'll be right": "It will be okay",
+    "Jandals": "Flip-flops or sandals"
+},
+
+"Ireland": {
+    "Craic": "Fun or enjoyment",
+    "Grand": "Good or fine",
+    "Yoke": "Thing or object",
+    "Sláinte": "Cheers or good health",
+    "Feek": "Beautiful or attractive"
+},
+
+"Brazil": {
+    "Legal": "Cool or nice",
+    "Cafuné": "The act of running fingers through someone's hair",
+    "Saudades": "A feeling of longing or nostalgia",
+    "Beleza": "Great or awesome",
+    "Churrasco": "Barbecue or grilled meat"
+},
+
+"Russia": {
+    "Da": "Yes",
+    "Nyet": "No",
+    "Privet": "Hello",
+    "Spasibo": "Thank you",
+    "Za zdorovye": "Cheers or to your health"
+},
+
+"South Korea": {
+    "Hwaiting": "Encouragement similar to 'fighting'",
+    "Aigoo": "Expression of surprise or exasperation",
+    "Pali pali": "Hurry up or quickly",
+    "Maknae": "The youngest member of a group or family",
+    "Saranghae": "I love you"
+},
+
+"Nigeria": {
+    "Oga": "Boss or leader",
+    "Chop": "To eat",
+    "Ehen": "Expression of understanding or agreement",
+    "Sabi": "To know or to understand",
+    "Gist": "Gossip or rumors"
+},
+
+"Argentina": {
+    "Boludo": "Dude or buddy",
+    "Que onda": "What's up or how's it going",
+    "Chabón": "Guy or dude",
+    "Birra": "Beer",
+    "Fernet": "An alcoholic drink popular in Argentina"
+},
+
+"Sweden": {
+    "Fika": "To have coffee and a pastry",
+    "Lagom": "Not too little, not too much, just right",
+    "Hej": "Hello or hi",
+    "Sjysst": "Nice or decent",
+    "Tack": "Thank you"
+},
+
+"Netherlands": {
+    "Gezellig": "Cozy or friendly",
+    "Lekker": "Tasty or delicious",
+    "Hoi": "Hi or hello",
+    "Doei": "Goodbye",
+    "Fiets": "Bicycle"
+},
+
+"South Africa": {
+    "Braai": "Barbecue",
+    "Lekker": "Nice or great",
+    "Yebo": "Yes",
+    "Eina": "Ouch or pain",
+    "Robot": "Traffic light"
+},
+
+"Mexico": {
+    "Chido": "Cool or great",
+    "Carnal": "Brother or friend",
+    "Güey": "Dude or guy",
+    "Chela": "Beer",
+    "Padre": "Cool or awesome"
+},
+
+"Thailand": {
+    "Sabai": "Relaxed or comfortable",
+    "Mai pen rai": "Never mind or it's okay",
+    "Sawasdee": "Hello or greetings",
+    "Mak: "Very" or "too much",
+    "Aroy": "Delicious or tasty"
+},
+
+"Kenya": {
+    "Sasa": "What's up or hello",
+    "Msupa": "Beautiful or attractive",
+    "Sheng": "A mix of Swahili and English slang used in Kenya",
+    "Poa": "Cool or good",
+    "Chapaa": "Money"
+},
+
+"Turkey": {
+    "Merhaba": "Hello",
+    "Tamam": "Okay or all right",
+    "Aferin": "Well done or congratulations",
+    "Beyaz": "Money",
+    "Arabesk": "A type of Turkish music"
+},
+
+"Peru": {
+    "Chévere": "Great or awesome",
+    "Chamba": "Job or work",
+    "Pata": "Friend or buddy",
+    "Camote": "Sweet or kind",
+    "Chela": "Beer"
+},
+
+
+#aman@srmist
+
+
